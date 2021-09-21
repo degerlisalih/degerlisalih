@@ -25,10 +25,9 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-  
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=degerlisalih&show_icons=true&locale=en&layout=compact" alt="vedatonal38" /></p>
   
-<p align="center">&nbsp;
+<p align="left">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=degerlisalih&show_icons=true&locale=en" alt="vedatonal38" /></p>
 
