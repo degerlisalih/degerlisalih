@@ -12,9 +12,9 @@
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/salihdegerli/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vedat-%c3%b6nal-04004319b/" height="30" width="40" /></a>
-<a href="https://salihdegerli.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="vedatonal38" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/salihdegerli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="vedatonal38#9510" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salihdegerli/" target="blank"><img align="center" src="https://www.iconfinder.com/icons/5296501/download/png/4096" alt="salihdegerli/" height="30" width="40" /></a>
+<a href="https://salihdegerli.medium.com" target="blank"><img align="center" src="https://www.iconfinder.com/icons/8010436/download/png/4096" alt="salihdegerli" height="40" width="50" /></a>
+<a href="https://www.kaggle.com/salihdegerli" target="blank"><img align="center" src="https://www.iconfinder.com/icons/4373210/download/png/4096" alt="salihdegerli" height="25" width="40" /></a>
 </p>
 <h2 align="center">Languages and Tools</h2>
 
