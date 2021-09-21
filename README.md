@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Python, Java**
 
-- 📫 How to reach me **salih_degerli@outlook.com**
-
 <h2 align="center">Connect with me</h2>
 <p align="center">
  <a href="mailto:salih_degerli@outlook.com" target="blank"><img align="center" src="https://www.iconfinder.com/icons/6296671/download/png/4096" alt="salihdegerli/" height="30" width="40" /></a>
